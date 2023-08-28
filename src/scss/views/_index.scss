@@ -1,0 +1,62 @@
+.logo_Infinity {
+    height: 80px !important;
+    width: 80px !important;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.ocultar {
+    position: relative;
+    right: 30px !important;
+    height: 30px;
+    width: 30px;
+}
+
+.oculto {
+    display: none;
+}
+
+.me-auto {
+    text-decoration: none;
+    gap: 20px;
+}
+
+.contador {
+    display: block;
+    background-color: red;
+    color: black;
+    border-radius: 150px;
+    padding: 5px;
+    width: 30px;
+    text-align: center;
+    font-size: 14px;
+    margin: -10px 0 0 30px;
+}
+
+.card {
+    position: relative;
+    display: inline-block;
+    gap: 50px;
+    width: 50vh;
+
+}
+
+:is(.removeProduct.addProduct) {
+    height: 20px;
+    display: inline;
+    position: relative;
+    width: 20px;
+    gap: 5px;
+}
+
+.addChart {
+    position: relative;
+    top: 10px;
+}
+
+span {
+    position: relative;
+    width: 30px;
+}

@@ -1,8 +1,8 @@
-# Infinity
+# React + Vite
 
----
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Table of Contents
+Currently, two official plugins are available:
 
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
@@ -116,7 +116,7 @@ $ npm run dev
 
 ## FAQs
 
-
+Puede visitar la web en: <a href="https://infinityshops.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://oasisinet.com/wp-content/uploads/2022/05/cropped-oasis-fav-32x32.png" alt="oasis" width="40" height="40"/> </a><a href="https://nicolascaminos.github.io/Oasis/" target="_blank" rel="noreferrer">https://nicolascaminos.github.io/Oasis/</a> 
 
 <br>
 
